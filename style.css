@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  font-family: Comic Sans MS
+}
+#paragraft{
+  text-align: center;
+  font-family: Comic Sans MS
+}
+#soalatas{
+  text-align: left;
+  font-family: monospace;
+  font-style: oblique;
+}
+#paragraft1{
+  text-indent: 30px
+}
+#paragraft2{
+  text-indent: 30px
+}
+#paragraft3{
+  font-family: Comic Sans MS
+}
+.container h1{
+  font-size: 8vw;
+}
+#paragraft4{
+  font-size: 20px;
+  text-align: center;
+  font-family: oblique
+}
+#p12{
+  text-align: center;
+  font-family: Comic Sans MS
+  font-style: oblique;
+}
